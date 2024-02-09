@@ -1,1 +1,1 @@
-# Fetchathon-project
+# Fetchathon-project Fetch.ai
